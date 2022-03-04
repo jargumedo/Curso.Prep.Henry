@@ -1,0 +1,27 @@
+
+        .divClass h1{
+            color:orange
+        }
+        #thirdDiv img{
+            width:400px;
+        }
+        #thirdDiv img{
+            height: 600px;
+            width: 500px;
+        }
+        #thirdDiv {
+            background: yellow;
+        }
+        #spanId {
+            font-size: 18px;
+        }
+        #spanId {
+            margin: 50px;
+        }
+        #thirdDiv {
+            padding: 50px;
+        }
+        #thirdDiv {
+            border: 10px solid black;
+        }
+
